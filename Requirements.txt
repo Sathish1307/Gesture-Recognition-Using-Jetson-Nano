@@ -1,0 +1,11 @@
+What libraries are needed to run your project ?
+opencv-python
+mediapipe
+numpy
+pynput
+
+In detailed form,
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.23.0
+pynput>=1.7.6
